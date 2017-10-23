@@ -1,0 +1,33 @@
+
+.btn {
+    border-radius: 60px; /* add border radius */
+    display: inline;/*style inline */
+    padding: 28px 28px; /* add padding */
+    margin:6% ;/*add margin to buttons*/
+
+}
+
+.part1 {background-color: red;  } /* add color */
+.part1:hover {background-color: #46a049;}/*add color to hover*/
+
+.part2 {background-color: #2196F3;} /* add color */
+.part2:hover {background: purple;}
+
+.part3 {background-color: #ff9800;} /*add color */
+.part3:hover {background: green;}
+
+.part4 {background-color: #f44336;} /* add color*/
+.part4:hover {background: lightblue;}
+
+h1{
+  color:#ffc107; /*add color to letters*/
+  font-style: oblique;/*add style to letters*/
+  text-align: center;/*add aling to letters*/
+  font-size: 80px;/*add size to letters*/
+}
+
+a{
+  color:white;/*add color to letters of the buttons*/
+  font-size: 40px;/*add size to letters of the buttons*/
+  text-align: center;/*add aling to letters of the buttons*/
+  }

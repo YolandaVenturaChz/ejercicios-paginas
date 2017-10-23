@@ -1,0 +1,17 @@
+/*start forming div*/
+div{
+  width: 45vh; /*add width*/
+  height: 20vh;/*add heigth*/
+  text-align: center;/*position letters*/
+  background-color:#ffc107;/*background*/
+  font-size: 40px;/*size letters*/
+  font-family:monospace;/*style letters*/
+  float: left;/* block location*/
+}
+.style{
+    background-color:#2b2b2b;/*background style*/
+    width: 10%;/*add width*/
+    color:white;/*add color to letters */
+    margin-left: 56px;/*add margin left*/
+    margin-right: 56px;/*add margin right*/
+}

@@ -1,0 +1,12 @@
+/*start forming div*/
+div {
+width: 178vh;/*add width*/
+height: 30vh;/*add height*/
+margin: 3vh;/*add margin*/
+background-color:#ffc107;/*add background*/
+}
+
+.style{
+  background-color: #2b2b2b;/*add background to style*/
+  color:white;/*add color to letters*/
+}

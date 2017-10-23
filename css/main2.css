@@ -1,0 +1,13 @@
+/*start forming div*/
+div{
+  display: block;/*style to block*/
+  width: 40%;/*add width*/
+  height: 200px;/*add height*/
+  background-color: #ffc107;/*add background*/
+  font-size:40px;/*add size to letters*/
+}
+.style{
+  background-color: #2b2b2b;/*add background*/
+  font-size:50px;/*add size to letters*/
+  color:white;/*add color to letters*/
+}

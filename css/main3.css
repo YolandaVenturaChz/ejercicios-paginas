@@ -1,0 +1,18 @@
+/*start forming div*/
+div{
+  display:inline; /*style block*/
+  width: 30%;/*add width*/
+  height: 40vh;/*add heigth*/
+  margin: 10px;/*add margin*/
+  background-color:#ffc107;/*add background*/
+  font-size: 40px;/*add size to letters*/
+  font-family:monospace;/*style to letters*/
+  float:left; /*position de block*/
+}
+p{
+  margin:auto;/*add margin*/
+}
+.style{
+    background-color:#2b2b2b; /*add background to style*/
+    color:white;/*add color to letters*/
+}
